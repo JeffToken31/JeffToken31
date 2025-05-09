@@ -69,11 +69,4 @@ What drives me is the joy of learning and creating. I like building fun, engagin
 
 ---
 
-<div align="center">
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/jeffreybasset/count.svg" />
-</div>
-
----
-
 > *“The man who moves a mountain begins by carrying away small stones.” — Confucius*
