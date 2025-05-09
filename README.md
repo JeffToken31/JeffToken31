@@ -59,6 +59,8 @@
 
 </div>
 
+Visitors count<br>
+<img src="https://profile-counter.glitch.me/jeffreybasset/count.svg" />
 ---
 
 > *"Celui qui déplace une montagne commence par déplacer de petites pierres." — Confucius*
