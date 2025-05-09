@@ -58,9 +58,10 @@
   </a>
 
 </div>
-
+<div align="center">
 Visitors count<br>
 <img src="https://profile-counter.glitch.me/jeffreybasset/count.svg" />
+</div>
 ---
 
 > *"Celui qui déplace une montagne commence par déplacer de petites pierres." — Confucius*
