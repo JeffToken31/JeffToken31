@@ -1,22 +1,30 @@
-
 <div align="center">
-  <img src="https://i.postimg.cc/G2tM6b9D/Avatar.png" alt="Avatar de Jeffrey" width="200" />
-  <h1>Salut, moi c’est Jeffrey 👋</h1>
-  <p>Développeur web en reconversion, étudiant à la Holberton School 🧑‍💻</p>
-  <p>Passionné par la programmation et les projets créatifs</p>
+  <img src="https://i.postimg.cc/G2tM6b9D/Avatar.png" alt="Avatar of Jeffrey" width="200" />
+  <h1>Hi, I'm Jeffrey 👋</h1>
+  <p>Web developer in career transition, currently studying at Holberton School 🧑‍💻</p>
+  <p>Passionate about coding, creative projects, and building things that make people say “wow”</p>
 </div>
 
 ---
 
-## 🧠 Ce que j’apprends actuellement
+## 🧠 About Me
 
-- Langages : `HTML`, `CSS`, `JavaScript`, `C`, `Python`
-- Frameworks : React (débutant), Hardhat (exploration)
-- Outils : Git, Linux, VS Code
+I'm a self-taught web enthusiast who started learning HTML, CSS, and JavaScript out of curiosity — and quickly fell in love with coding.  
+Today, I'm enrolled at **Holberton School**, where I’m gaining deep knowledge in programming fundamentals, algorithms, and full-stack development, including **C** and **Python**.
+
+What drives me is the joy of learning and creating. I like building fun, engaging experiences — and I'm always looking for my next challenge.
 
 ---
 
-## 🛠️ Langages et outils
+## 📚 Currently Learning
+
+- **Languages:** `C`, `Python`, `JavaScript`, `HTML`, `CSS`
+- **Tools:** Git, Linux, VS Code
+- **Focus:** Deepening my understanding of software development and problem-solving
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -25,12 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </div>
 
 ---
 
-## 📈 Mes statistiques GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeffToken31&show_icons=true&count_private=true&theme=dracula" height="160"/>
@@ -39,7 +46,7 @@
 
 ---
 
-## 🏆 Trophées
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JeffToken31&theme=onedark&margin-w=15" />
@@ -47,23 +54,24 @@
 
 ---
 
-## 🔗 Me contacter
+## 🔗 Contact Me
 
 <div align="center">
   <a href="mailto:jeffrey-31@hotmail.fr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jeffrey-basset/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 </div>
+
+---
+
 <div align="center">
-Visitors count<br>
-<img src="https://profile-counter.glitch.me/jeffreybasset/count.svg" />
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/jeffreybasset/count.svg" />
 </div>
----
-
-> *"Celui qui déplace une montagne commence par déplacer de petites pierres." — Confucius*
 
 ---
+
+> *“The man who moves a mountain begins by carrying away small stones.” — Confucius*
