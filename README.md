@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.postimg.cc/G2tM6b9D/Avatar.png" alt="Avatar de Jeffrey" width="200" />
+  <img src="https://postimg.cc/0MgdwRY5" alt="Avatar de Jeffrey" width="200" />
   <h1>Salut, moi c’est Jeffrey 👋</h1>
   <p>Développeur web en reconversion, étudiant à la Holberton School 🧑‍💻</p>
   <p>Passionné par la programmation et les projets créatifs</p>
