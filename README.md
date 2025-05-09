@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://postimg.cc/JtJPR6vW" alt="Jeffrey avatar" width="150" style="border-radius: 50%;" />
+  <img src="[https://postimg.cc/JtJPR6vW](https://i.postimg.cc/G2tM6b9D/Avatar.png)" alt="Jeffrey avatar" width="150" style="border-radius: 50%;" />
   <h1>Salut, moi c’est Jeffrey 👋</h1>
   <p>Développeur web en reconversion, étudiant à la Holberton School 🧑‍💻</p>
   <p>Passionné par la programmation, les projets créatifs, et le développement de jeux 🎮</p>
@@ -33,8 +33,8 @@
 ## 📈 Mes statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeffreyBasset&show_icons=true&count_private=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyBasset&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeffToken31&show_icons=true&count_private=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffToken31&layout=compact&theme=dracula" height="160"/>
 </div>
 
 ---
@@ -42,19 +42,7 @@
 ## 🏆 Trophées
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeffreyBasset&theme=onedark&margin-w=15" />
-</div>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffreyBasset/JeffreyBasset/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffreyBasset/JeffreyBasset/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeffreyBasset/JeffreyBasset/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=JJeffToken31&theme=onedark&margin-w=15" />
 </div>
 
 ---
