@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="(https://i.postimg.cc/G2tM6b9D/Avatar.png)" alt="Jeffrey avatar" width="150" style="border-radius: 50%;" />
+  <img src="https://postimg.cc/0MgdwRY5" alt="Jeffrey avatar" width="150" style="border-radius: 50%;" />
   <h1>Salut, moi c’est Jeffrey 👋</h1>
   <p>Développeur web en reconversion, étudiant à la Holberton School 🧑‍💻</p>
-  <p>Passionné par la programmation, les projets créatifs, et le développement de jeux 🎮</p>
+  <p>Passionné par la programmation et les projets créatifs</p>
 </div>
 
 ---
@@ -42,7 +42,7 @@
 ## 🏆 Trophées
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JJeffToken31&theme=onedark&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeffToken31&theme=onedark&margin-w=15" />
 </div>
 
 ---
