@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/G2tM6b9D/Avatar.png" alt="Avatar of Jeffrey" width="200" />
   <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Jeffrey+!;Aspiring+Web+Developer+%F0%9F%9A%80;Always+building.+Always+learning." alt="Typing SVG" /></a></h1>
   <p>Web developer in career transition, currently studying at Holberton School 🧑‍💻</p>
-  <p>Passionate about coding, creative projects, and building things that pass in my head</p>
+  <p>Passionate about coding, creative projects, and building things that pass in my head 🧠</p>
 </div>
 
 ---
